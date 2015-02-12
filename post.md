@@ -1,6 +1,6 @@
 ## AirPair Editor Tips
 
-HEAD More up to date.
+HEAD More up to date. Even more up to date.
 
 As you type you'll see the preview pane update. The longer your posts gets, the less frequently it will refresh.
 
